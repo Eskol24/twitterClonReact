@@ -6,7 +6,7 @@ import PostList from './posts/PostList';
 import { GoogleLogin } from 'react-google-login';
 import config from '../config.js';
 
-import MyPlaceBird from '../images/samurai.jpeg';
+import MyPlaceBird from '../images/pajaro.jpeg';
 var imgStyle = {
   maxWidth: "85px",
 };
